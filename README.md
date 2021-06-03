@@ -4,11 +4,11 @@ The CU Japanese &amp; Japanese American Community History Project documents the 
 ## Metadata
 Fields that may be included in the metadata for items in the CU Japanese and Japanese American Community History Project. If a field is blank for all entries, it will not be included in the spreadsheet(s).
 ### Collection Name
-Name of the collection.
+Name of the collection: CU Japanese and Japanese American Community History Project
+
 ### Title
-Title of the item.
-### Part
-Part number of the item.
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
+
 ### Name
 Creators, contributors, etc. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
 ### Name URI
