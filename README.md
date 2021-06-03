@@ -10,7 +10,7 @@ Name of the collection: CU Japanese and Japanese American Community History Proj
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
-Creators, contributors, etc. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
+Individual(s) or corporate entities that created or are associated with the work. Creators, contributors, etc. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
 ### Name URI
 URI for creators, contributors, etc. listed in Name.
 ### Resource Type
