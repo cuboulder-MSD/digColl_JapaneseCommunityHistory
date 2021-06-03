@@ -13,9 +13,7 @@ Title derived from original captions on the work by the creator. If the original
 Individual(s) or corporate entities that created or are associated with the work. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
 
 ### Resource Type
-A term that specifies the characteristics and general type of content of the resource. Terms are derived from the [Library of Congress Resource Type list](https://id.loc.gov/vocabulary/resourceTypes.html). Type terms used in this collection include: [text](https://id.loc.gov/vocabulary/resourceTypes/txt.html); [Still image](https://id.loc.gov/vocabulary/resourceTypes/img.html)
-### Resource Type URI
-URI for the Resource Type.
+A term that specifies the characteristics and general type of content of the resource. Terms are derived from the [Library of Congress Resource Type list](https://id.loc.gov/vocabulary/resourceTypes.html). Type terms used in this collection include: [Text](https://id.loc.gov/vocabulary/resourceTypes/txt.html); [Still image](https://id.loc.gov/vocabulary/resourceTypes/img.html)
 ### Genre
 Derived from the Library of Congress Genre Form list: http://id.loc.gov/authorities/genreForms/
 ### Genre URI
