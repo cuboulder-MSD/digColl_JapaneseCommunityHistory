@@ -10,11 +10,10 @@ Name of the collection: CU Japanese and Japanese American Community History Proj
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
-Individual(s) or corporate entities that created or are associated with the work. Creators, contributors, etc. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
-### Name URI
-URI for creators, contributors, etc. listed in Name.
+Individual(s) or corporate entities that created or are associated with the work. Works with no creative entities identified are listed as "Unidentified author" or "Unidentified creator."
+
 ### Resource Type
-Derived from the Library of Congress Resource Type list: https://id.loc.gov/vocabulary/resourceTypes.html
+A term that specifies the characteristics and general type of content of the resource. Terms are derived from the [Library of Congress Resource Type list] (https://id.loc.gov/vocabulary/resourceTypes.html). Type terms used in this collection include: [text](https://id.loc.gov/vocabulary/resourceTypes/txt.html); [Still image](https://id.loc.gov/vocabulary/resourceTypes/img.html)
 ### Resource Type URI
 URI for the Resource Type.
 ### Genre
