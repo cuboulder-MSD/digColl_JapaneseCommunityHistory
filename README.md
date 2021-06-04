@@ -15,99 +15,78 @@ Individual(s) or corporate entities that created or are associated with the work
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. Terms are derived from the [Library of Congress Resource Type list](https://id.loc.gov/vocabulary/resourceTypes.html). Type terms used in this collection include: [Text](https://id.loc.gov/vocabulary/resourceTypes/txt.html); [Still image](https://id.loc.gov/vocabulary/resourceTypes/img.html)
 ### Genre
-Derived from the Library of Congress Genre Form list: http://id.loc.gov/authorities/genreForms/
-### Genre URI
-URI for the Genre.
+A term or terms that designate a category characterizing a particular style, form, or content. Genre terms used in the collection include: [Newsletters](http://id.loc.gov/authorities/genreForms/gf2014026131); [Registers (lists)](http://id.loc.gov/authorities/genreForms/gf2014026166)  
+
 ### Place Created
-Place created, if known.
-### Publisher	Date
-Date the item was published.
-### Issued	Date
-Date the item was issued, if in a series.
-### Created	Date
-Date the item was created.
-### Captured
-Date the material was digitized.
+Location of work creation or publication city. Places include: Boulder (Colo.)
+### Publisher
+The name of the entity that published, printed, distributed, released, issued, or produced the resource.
+### Date Issued
+The date that the resource was published, released, or issued. Date ranges include:
+
+### Date Created
+The date of creation of the resource. Date ranges include: 1950s-1990s
+
+### Date Digitized
+The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2020-07-13
+
 ### Edition
-Edition of the item.
-### Issuance
-Information about how frequenty issues were released, and other relevant information about the periodical.
-### Frequency
-Frequency the volumes of the series were issued.
-### Language Term
-Language of the item.
-### Language Term URI
-URI for the language, typically using the URI for ISO 639-2.
-### Language Term Type
-Controlled vocabulary name, typically ISO 639-2.
+A particular form or version of a published text.
+
+### Language
+Contains the textual or coded form for the language of the content of the resource. Language(s) seen in this collection include: [English](http://id.loc.gov/vocabulary/iso639-2/eng)
+
 ### Extent
-Extent of the item.
-### Physical Description Note
-Notes on the physical description of the item.
-### Form
-Form of the item, controlled using the AAT list: http://vocab.getty.edu/aat/
-### Form URI
-URI for Form.
-### Internet Media Type
-Controlled using terms from IANA.
+The size or scale of the work. Extent in this collection describes the number of pages the work consists of.
+
+### Internet Media Type: 
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: application/pdf
+
 ### Digital Origin
-Indicates whether the item was digitally native or reformatted digital.
+The method by which a resource achieved digital form. Origin for this collection: reformatted digital
+
+### Form
+A particular physical presentation of a resource, including the physical form or medium of material for a resource. Form terms include: [newspaper columns](http://vocab.getty.edu/aat/300026441); [registers (lists)](http://vocab.getty.edu/aat/300027168)
+
+
 ### Abstract
-Abstract for the item.
-### Table of Contents
-Table of Contents for the item.
-### Note
-Notes about the item, including descriptions of content, and any cataloger's notes.
-### Note Type
-Indicates the type of note provided.
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+
 ### Subject Topic
-Topical subject heading that applies to the item.
-### Subject Topic URI
-URI for the Subject Topic heading.
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: [Minorities in higher education](http://id.worldcat.org/fast/1741187)
+
 ### Subject Name
-Used for items where the subject of the item is a person.
-### Subject Name URI
-URI for the Subject Name.
+A name used as a subject. Common names include: Hagiwara, Toru; Horie, Akira; [Motomura, Hiroshi, 1953-](http://id.loc.gov/authorities/names/n95040776)
+
 ### Subject Geographic
-Geographic locations featuring heavily in the item.
-### Subject Geographic URI
-URI for the Subject Geographic.
-### Subject Temporal
-Time periods heavily discussed in an item. 
-### Subject Temporal URI
-URI for the Subject Temporal.
-### Subject Title
-Subject of the Title.
-### Subject Title URI
-URI for the Subject Title.
-### Subject Genre
-Used if the subject of the work is a particular genre.
-### Subject Genre URI
-URI for the Subject Genre.
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: [Colorado--Boulder](http://id.worldcat.org/fast/1206092)
+
 ### Identifier
-File name of the digital surrogate.
-### Identifier LUNA
-Identifier for the resource in the LUNA software. [May be retired after migration to a new platform.]
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: narv_cosmoClub_05_01_lastGenAssemblyReport.pdf
+
 ### Identifier ARK
-Archival Resource Key (ARK) identifier for the resource in the University of Colorado Libraries database. [Permanent identifier]
+Controlled, stable link to the resource.
+
 ### Physical Location
-Physical location information for the original item.
-### Physical Location Type
-Location type.
+The institution or repository that holds the resource or where it is available: Special Collections and Archives at the University of Colorado Boulder Libraries
+
 ### Shelf Locator
-Shelf locator for the item. If a Library of Congress Call number, the entire LCCN will be provided. Items stored in Archives with COU#, folder, or other filing system - COU# or other basic location identification information will be provided but lower level organization may change and will not be provided.
+Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: COU:4044 
+
 ### Related Item
-Items directly related to this item will be listed.
-### Related Item Type
-Type of related item.
-### Related Item Identifier
-Identifer for the related item.
-### Related Item Location
-Physical location information for the related item.
+Information that identifies other resources related to the one being described.
+
 ### Access Condition
-Rights information.
-### Access ConditionURI
-URI for the Access Condition or rights statement.
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). https://rightsstatements.org/page/InC/1.0/?language=en
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+
+
+## Resources
 
 ## Notes
 This collection has materials added on an semi-ongoing basis between 2021-2023.
