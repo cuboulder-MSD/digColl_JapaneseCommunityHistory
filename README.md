@@ -1,6 +1,10 @@
 # CU Japanese and Japanese American Community History Project
 ## Description
 The CU Japanese &amp; Japanese American Community History Project documents the history of Japanese and Japanese American students, faculty, and staff at the University of Colorado. The project began in 2019 to celebrate the long and vibrant history of this university community and to commemorate the 75th anniversary of the end of Japanese American incarceration in the United States. This collection contains documents, photos, audio and video recordings, and other materials from the University Libraries’ Archives, as well as oral history interviews conducted by CU Boulder students working on the project. This project is generously supported by the CU Boulder Outreach Committee.
+
+Permanent address to digital collection: [https://doi.org/10.25810/4kzt-4253](https://doi.org/10.25810/4kzt-4253).<br /> 
+Please use the same link when sharing or citing the collection.
+
 ## Metadata
 Fields that may be included in the metadata for items in the CU Japanese and Japanese American Community History Project. If a field is blank for all entries, it will not be included in the spreadsheet(s).
 ### Collection Name
