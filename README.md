@@ -25,8 +25,9 @@ A term or terms that designate a category characterizing a particular style, for
 Location of work creation or publication city. Places include: Boulder (Colo.)
 ### Publisher
 The name of the entity that published, printed, distributed, released, issued, or produced the resource.
+
 ### Date Issued
-The date that the resource was published, released, or issued. Date ranges include:
+The date that the resource was published, released, or issued. Date ranges include: 1974
 
 ### Date Created
 The date of creation of the resource. Date ranges include: 1950s-1990s
@@ -53,7 +54,6 @@ The method by which a resource achieved digital form. Origin for this collection
 
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. Form terms include: [newspaper columns](http://vocab.getty.edu/aat/300026441); [registers (lists)](http://vocab.getty.edu/aat/300027168)
-
 
 ### Abstract
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
